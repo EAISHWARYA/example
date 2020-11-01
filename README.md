@@ -1,1 +1,2 @@
-# example
+# synchronousBallMovement
+Ball moving synchronously
